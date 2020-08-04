@@ -1,10 +1,12 @@
 hello
 <<<<<<< HEAD
-bharat
+bhart
 harsh
 kaushik
 =======
 bhatol
+kishan
 hardik
 anand
 >>>>>>> thirsty
+
