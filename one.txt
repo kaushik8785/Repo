@@ -1,4 +1,10 @@
 hello
+<<<<<<< HEAD
 bharat
 harsh
 kaushik
+=======
+bhatol
+hardik
+anand
+>>>>>>> thirsty
