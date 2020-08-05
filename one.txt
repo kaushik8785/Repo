@@ -1,23 +1,18 @@
 hello
-<<<<<<< HEAD
-<<<<<<< HEAD
 bhart
 harsh
 kaushik
-=======
-=======
->>>>>>> add name
 bhatol
 kishan
 hardik
 anand
-<<<<<<< HEAD
->>>>>>> thirsty
-
-=======
-=======
+xscs
+sds
+xs
+cds
+c
+d
+c
 bharat
 harsh
 kaushik
->>>>>>> add name
->>>>>>> add name
